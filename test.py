@@ -13,3 +13,5 @@ def generate_startup_idea():
 # Generate 5 random startup ideas
 for _ in range(5):
     print(generate_startup_idea())
+
+    print("tanny was here")
